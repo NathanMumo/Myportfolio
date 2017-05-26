@@ -1,0 +1,15 @@
+.bg-1 {
+  background-color: #474e5d; /* Dark Blue */
+  color: #ffffff;
+}
+  .container-fluid {
+padding-top: 50px;
+padding-bottom: 50px;
+
+}
+.footer{
+  text-align: center;
+}
+.container-fluid-flow{
+  padding-top: 0px;
+}
